@@ -6,14 +6,23 @@ SlowSwap is an AMM with a Verifiable Delay Function (VDF) that prevents MEV fron
 
 ### 😿 Problem
 
+![problem](problem.jpg)
 
 ### 💡 Existing Solutions
 
+![existing](existing.jpg)
+
 ### 😎 Our Solution
+
+![solution](solution.jpg)
 
 ### 🛠 Flow
 
+![flow](flow.jpg)
+
 ### 🦥 Team
+
+![team](team.jpg)
 
 The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
 
