@@ -23,19 +23,19 @@ SlowSwap is an AMM with a Verifiable Delay Function (VDF) that prevents MEV fron
 ### 🖥 Code
 
 npm packages:
-- [packages](https://www.npmjs.com/search?q=slowswap)
+- [link](https://www.npmjs.com/search?q=slowswap)
 
 VDF Library: 
-- [repo](https://github.com/SlowSwap/vdf)
+- [link](https://github.com/SlowSwap/vdf)
 
 Core Contract:
-- [repo](https://github.com/SlowSwap/slowswap-core)
+- [link](https://github.com/SlowSwap/slowswap-core)
 
 Periphery Contract:
-- [repo](https://github.com/SlowSwap/slowswap-periphery)
+- [link](https://github.com/SlowSwap/slowswap-periphery)
 
 Front-end: 
-- [repo](https://github.com/SlowSwap/slow-front-end)
+- [link](https://github.com/SlowSwap/slow-front-end)
 
 
 ### 🦥 Team
